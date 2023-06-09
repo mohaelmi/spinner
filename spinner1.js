@@ -31,6 +31,7 @@ setTimeout(() => {
 }, 1500);
 
 setTimeout(() => {
+  //two backslash for is special charater 
   process.stdout.write('\r\\   '); 
 }, 1700);
 
